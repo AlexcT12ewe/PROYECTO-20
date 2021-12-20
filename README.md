@@ -1,2 +1,2 @@
-# PROYECTO-20
-Proyecto de la clase 20
+# Proyecto-20-V2
+Proyecto Rutina diaria del astronauta
